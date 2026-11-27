@@ -1,0 +1,1 @@
+export{n as cardDetector}from"./Scan-Zl_xNxGH.js";
