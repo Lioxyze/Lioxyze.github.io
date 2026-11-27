@@ -1,1 +1,0 @@
-export{n as cardDetector}from"./Scan-DpzViwxN.js";
